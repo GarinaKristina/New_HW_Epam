@@ -1,6 +1,6 @@
 const str = "123";
 console.log(typeof str); 
 
-let num = Number(str);
+const num = Number(str);
 
 console.log(typeof num);
