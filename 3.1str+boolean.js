@@ -1,6 +1,6 @@
-let a = "apple" ;
-let b = true;
-let c = (2+1);
+const a = "apple" ;
+const b = true;
+const c = (2+1);
  sum = a+b;
  sum1 =a+c;
  sum2 =b+c;
