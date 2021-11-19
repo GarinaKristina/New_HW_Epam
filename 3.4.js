@@ -1,4 +1,4 @@
-let str = "123";
+const str = "123";
 console.log(typeof str); 
 
 let num = Number(str);
