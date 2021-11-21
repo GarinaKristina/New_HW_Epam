@@ -1,7 +1,5 @@
-
-let car = ["nissan","lexus","opel","w"];
-console.log (car);
-console.log( String(car) === 'nissan,lexus,opel,w' )
-
-
-
+let cars = ["nissan","lexus","opel","w"];
+let carsString = cars.join();
+console.log(carsString);
+let carsArray = carsString.split(',');
+console.log(carsArray);
